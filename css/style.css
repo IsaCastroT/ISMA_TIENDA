@@ -1,0 +1,61 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff0f5; /* Rosa pastel claro */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #ffb6c1; /* Rosa pastel */
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffb6c1;
+}
+
+.hero {
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 40px;
+    margin: 40px auto;
+    max-width: 600px;
+}
+
+button {
+    background-color: #ffb6c1;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #f7a8b8;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 0;
+    font-size: 0.9em;
+}
